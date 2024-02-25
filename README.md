@@ -61,16 +61,16 @@
 ###
 
 <div align="left">
-  <a href="youtube.com/@Julot" target="_blank">
+  <a href="https://youtube.com/@Julot" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="instagram.com/juloooot" target="_blank">
+  <a href="https://instagram.com/juloooot" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="twitch.tv/Julooot_" target="_blank">
+  <a href="https://twitch.tv/Julooot_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="dsc.bio/julot" target="_blank">
+  <a href="https://dsc.bio/julot" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:jules.libermann@gmail.com" target="_blank">
