@@ -1,29 +1,93 @@
-<h1><p align="center">Hi ! I'm Julot <a href="https://github.com/Julooot#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1></a></p>
+<h1 align="center">Hi 👋! My name is Jules</h1>
 
-<p align="center">I'm a begginer in development.<br/>Would like to be a game designer.<br/></p>
+###
 
-<p align = "center"><a href="https://www.buymeacoffee.com/julot"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="julot" /></a></p><br><br>
+<h3 align="center">🔭 I'm working on some secret stuff.<br>    🌱 I’m currently learning UE, Unity and Hammer.</h3>
 
-<summary><h2>What I currently do</h2></summary>
+###
 
-- 🔭 I'm working on some secret stuff.
-- 🌱 I’m currently learning UE, Unity and Hammer.
-<summary><h2>To connect with me</h2></summary>
+<h2 align="left">My Tools</h2>
 
-<p align = "center">
- 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/M8_Julot) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/juloooot/)
-[![Visits Badge](https://badges.pufler.dev/visits/julooot/julooot?style=for-the-badge)](https://github.com/julooot)
-</p>
+###
 
-<summary><h2> My Tools</h2></summary>
+<div align="center">
+</div>
 
-<br>
+###
 
-<div align="left">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" />  
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=unreal" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ae" height="40" alt="adobeaftereffects logo"  />
+</div>
 
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="35" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/firefox/FF7139" height="35" alt="firefox logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="35" alt="canva logo"  />
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<h2 align="left">My Socials</h2>
+
+###
+
+<div align="left">
+  <a href="youtube.com/@Julot" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="instagram.com/juloooot" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="twitch.tv/Julooot_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  </a>
+  <a href="dsc.bio/julot" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <a href="mailto:jules.libermann@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.tenor.com/67F_DZJgv-IAAAAM/shrek-mehdi.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/julooot/julooot/output/snake.svg" alt="Snake animation" />
+
+###
