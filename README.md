@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🔭 I'm working on some secret stuff.<br>    🌱 I’m currently learning UE, Unity and Hammer.</h3>
+<h3 align="center">🔭 I'm working on some secret stuff.<br>    👨‍🎓 Studying at E-Artsup.<br>    🌱 I’m currently learning UE, Unity and Hammer.</h3>
 
 ###
 
